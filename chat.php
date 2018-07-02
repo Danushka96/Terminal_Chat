@@ -13,7 +13,7 @@
                             (_________________)
 
                        Welcome to Secret Chat Service
-                              (Chat like Pro)
+                            (Chat like Pro)
                          
 
 <?php
